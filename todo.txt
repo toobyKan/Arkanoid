@@ -1,0 +1,17 @@
+
+Main Goals  {
+    1. make the game box [Done]
+    2. make the ball [Done]
+    3. make the ball move [Done]
+    4. add collision with the walls [Done]
+    5. add a player [Done]
+    6. add bricks that have collision [Done]
+    7. implement a level design tool [Done]
+    }
+
+Miscellaneous Tasks {
+    Refactor Code
+    Utility Board - For Scores and PowerUps
+    PowerUp - Bullets
+    Coloring and Design
+}
